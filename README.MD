@@ -1,0 +1,1 @@
+This simple script takes user input and outputs latest Harbor Freight coupons. :D
