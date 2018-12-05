@@ -9,4 +9,6 @@ To Do:
 
 Please feel free to fork and do a PR if you have some ideas for improvement. This is a quickly hacked script so much to be desired/done on it.
 
+To Run: `pipenv run python3 queryhf.py`
+
 Have fun!
