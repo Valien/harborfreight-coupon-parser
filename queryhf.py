@@ -5,6 +5,7 @@ import requests
 # https://images.harborfreight.com/hftweb/campaigns/localmedia/digitalsavings/Nov2018/digitalsavings_01.png'
 # as of this update (may 2019) the format has changed: https://images.harborfreight.com/hftweb/campaigns/localmedia/digitalsavings/2019/06_jun/digitalsavings_01.png
 # Another update - July - https://images.harborfreight.com/hftweb/weblanding/home-coupons-july2019/images/02.jpg
+# They've broken out barcode separately so need to rethink how this works...bummer.
 
 #BaseURL = 'https://images.harborfreight.com/hftweb/campaigns/localmedia/digitalsavings/2019/'
 BaseURL = 'https://images.harborfreight.com/hftweb/weblanding/home-coupons-'
